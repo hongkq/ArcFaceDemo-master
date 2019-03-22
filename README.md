@@ -1,6 +1,10 @@
 # ArcFaceDemo
-Free SDK demo
-
+这本是一个基于人脸识别的Demo，我在它Demo的例子下二次开发实现《人脸识别登录的个人理财通App》
+>如需学习请自行下载
+ git clone  https://github.com/hongkq/ArcFaceDemo-master.git  或者直接下载压缩包
+>如有问题可以邮扰 :18718383260@163.com 
+ 
+下面是人脸识别 Free SDK demo
 >工程如何使用？
  1. 下载代码:    
     git clone https://github.com/asdfqwrasdf/ArcFaceDemo.git 或者直接下载压缩包
